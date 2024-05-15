@@ -39,7 +39,7 @@ Using the raw Data **`Survey dataset.xlsx`** :
 <img width="1000" alt="powerbidash" src="https://github.com/jeanbaptistejacq/Survey-Dashboard-PowerBI/assets/80902643/193284a4-fbfe-46be-921a-4d01658bfa23">
 </br>
 
-Click [Here](https://github.com/jeanbaptistejacq/Survey-Dashboard-PowerBI/blob/main/Survey%20Dashboard.pdf) to view the PDF of the *BI* Report.
+Click [Here](https://github.com/jeanbaptistejacq/Survey-Dashboard-PowerBI/blob/main/Survey%20Dashboard.pdf) to go to the file.
 
 ## License
 
