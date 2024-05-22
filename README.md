@@ -3,9 +3,9 @@
 ![powerbisurvey](https://github.com/jeanbaptistejacq/Survey-Dashboard-PowerBI/assets/80902643/ae92bba5-ec3c-45c6-939d-673177e06b59)
 </br>
 </br>
-We are creating a Power BI dashboard breaking down the information collected in an online survey for Data Professionals. 
+We are creating a Power BI dashboard breaking down the information collected in an online survey for data professionals. 
 </br>
-It showcases the average salary by job title, level of difficulty to break into data, happiness with work/life balance, and so on.
+It showcases the average Salary by Job Title, level of Difficulty to break into data, Happiness with work/life balance, and so on.
 
 ## Content
 
@@ -16,11 +16,11 @@ It showcases the average salary by job title, level of difficulty to break into 
 [5. License](#license)  
 
 ## Steps
-Using the raw Data **`Survey dataset.xlsx`** :
-1. Connecting Database with Power BI Desktop
+Using the raw data **`Survey dataset.xlsx`** :
+1. Connecting database with Power BI Desktop
 2. Analyzing the tables and relations
-3. Data Cleaning using Power Query Editor
-4. Developing an Interactive BI Dashboard / Report => **`Survey Dashboard.pdf`** and **`Survey analysis.pbix`**
+3. Data cleaning using Power Query Editor
+4. Developing an interactive BI dashboard / report => **`Survey Dashboard.pdf`** and **`Survey analysis.pbix`**
 
 
 ## Tech Stack
