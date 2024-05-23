@@ -33,7 +33,7 @@ Using the raw data **`Survey dataset.xlsx`** :
 - The dashboard also reveals that the majority of people are switching their careers to the data domain, with **59.05%** of the survey respondents making this switch. 
 - Additionally, when switching careers, about **42%** found it neither easy nor difficult, while **25%** found it difficult to transition to the data domain. 
 - The survey indicated that *Python* is the most popular programming language among professionals, with data analysts being the majority of Python users. 
-- **6** out **10** professionals are satisfied with their salary.
+- **4** out of **10** professionals are satisfied with their salary.
 
 ## Dashboard
 <img width="1000" alt="powerbidash" src="https://github.com/jeanbaptistejacq/Survey-Dashboard-PowerBI/assets/80902643/193284a4-fbfe-46be-921a-4d01658bfa23">
