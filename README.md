@@ -17,10 +17,10 @@ It showcases the average Salary by Job Title, level of Difficulty to break into 
 
 ## Steps
 Using the raw data **`Survey dataset.xlsx`** :
-1. Connecting database with Power BI Desktop
-2. Analyzing the tables and relations
+1. Connect database with Power BI Desktop
+2. Analyze the tables and relations
 3. Data cleaning using Power Query Editor
-4. Developing an interactive BI dashboard / report => **`Survey Dashboard.pdf`** and **`Survey analysis.pbix`**
+4. Develop an interactive BI dashboard / report => **`Survey Dashboard.pdf`** and **`Survey analysis.pbix`**
 
 
 ## Tech Stack
